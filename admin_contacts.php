@@ -36,7 +36,7 @@ if(isset($_GET['delete'])){
 <body>
    
 <?php include 'admin_header.php'; ?>
-
+<!-- 
 <section class="messages">
 
    <h1 class="title"> messages </h1>
@@ -64,7 +64,7 @@ if(isset($_GET['delete'])){
    ?>
    </div>
 
-</section>
+</section> -->
 
 
 

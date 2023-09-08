@@ -88,7 +88,7 @@ if(!isset($user_id)){
       </div>
 
       <div class="box">
-         <img src="" alt="">
+         <img src="images/pic5-8.jpeg" alt="">
          <p> Nice</p>
          <div class="stars">
             <i class="fas fa-star"></i>
@@ -114,7 +114,7 @@ if(!isset($user_id)){
       </div>
 
       <div class="box">
-         <img src="" alt="">
+         <img src="images/pic5-7.jpeg" alt="">
          <p>Nice</p>
          <div class="stars">
             <i class="fas fa-star"></i>
