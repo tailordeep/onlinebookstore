@@ -20,9 +20,9 @@
 
       <div class="box">
          <h3>contact info</h3>
-         <p> <i class="fas fa-phone"></i> +91 7874560281 </p>
-         <p> <i class="fas fa-phone"></i> +91 8866320281 </p>
-         <p> <i class="fas fa-envelope"></i> kenil@gmail.com </p>
+         <p> <i class="fas fa-phone"></i> +91 8780803894 </p>
+         <p> <i class="fas fa-phone"></i> +91 7359140046 </p>
+         <p> <i class="fas fa-envelope"></i> harshchikhalia123@gmail.com </p>
          <p> <i class="fas fa-map-marker-alt"></i> gujrat, india - 394640 </p>
       </div>
 
